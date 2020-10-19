@@ -1,0 +1,7 @@
+nowTime: 2020-10-15 19:10:23
+epoch = 1  loss = 9.298858965095105
+lr = 2.5e-05
+
+Overall Accuracy is: 44.21
+other : 32.04 yes/no : 65.42 number : 29.23 
+

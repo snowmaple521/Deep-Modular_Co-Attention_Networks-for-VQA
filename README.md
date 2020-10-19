@@ -1,9 +1,9 @@
 # Deep-Modular_Co-Attention_Networks-for-VQA
 > 本项目主要是参考原作者代码然后进行了注释，放在自己代码库，以备以后的调用
-> 本项目基于《Deep-Modular Co-Attention Networks for VQA》这篇论文
+> 本项目基于[Deep-Modular Co-Attention Networks for VQA](http://openaccess.thecvf.com/content_CVPR_2019/html/Yu_Deep_Modular_Co-Attention_Networks_for_Visual_Question_Answering_CVPR_2019_paper.html) 这篇论文
 ## 文件目录结构
 ```angular2html
--|-cfgs
+|-cfgs
 |---base_cfgs.py 用于设置实验的一些配置参数 
 |---path_cfgs.py 加载数据的一些目录参数
 |==================================================|
